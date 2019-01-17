@@ -1,0 +1,31 @@
+{
+  "name": "basislijst-gebouwen",
+  "version": "0.0.1",
+  "description": "Genereer een basislijst van gebouwen adhv postcodes",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brechtvdv/basislijst-gebouwen.git"
+  },
+  "keywords": [
+    "gebouwenregister",
+    "linked",
+    "open",
+    "data"
+  ],
+  "author": "Brecht Van de Vyvere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brechtvdv/basislijst-gebouwen/issues"
+  },
+  "homepage": "https://github.com/brechtvdv/basislijst-gebouwen#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  }
+}
