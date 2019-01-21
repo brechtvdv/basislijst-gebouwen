@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "bin": {
     "postcode2gebouwen": "./bin/postcode2gebouwen.js"
-  }
+  },
   "directories": {
     "lib": "lib"
   },
